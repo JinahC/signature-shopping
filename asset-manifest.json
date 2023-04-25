@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/signature-shopping/static/js/main.b3178109.js",
+    "static/js/852.7b9071b1.js": "/signature-shopping/static/js/852.7b9071b1.js",
+    "static/media/MaterialCommunityIcons.ttf": "/signature-shopping/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/Ionicons.ttf": "/signature-shopping/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "static/media/SedgwickAveDisplay_400Regular.ttf": "/signature-shopping/static/media/SedgwickAveDisplay_400Regular.74c170e1c62b0cd3e85e.ttf",
+    "favicon.ico": "/signature-shopping/favicon.ico",
+    "index.html": "/signature-shopping/index.html",
+    "static/media/rocket.png": "/signature-shopping/static/media/rocket.d2f3bf41d5e4515c39a9.png",
+    "static/media/bell.png": "/signature-shopping/static/media/bell.cf04af27d6a651c4b904.png",
+    "favicon-32.png": "/signature-shopping/favicon-32.png",
+    "static/media/star.png": "/signature-shopping/static/media/star.69c7138684828d68fe5a.png",
+    "static/media/heart.png": "/signature-shopping/static/media/heart.23b5c2c0eb77d50ff1b4.png",
+    "favicon-16.png": "/signature-shopping/favicon-16.png",
+    "manifest.json": "/signature-shopping/manifest.json",
+    "serve.json": "/signature-shopping/serve.json",
+    "main.b3178109.js.map": "/signature-shopping/static/js/main.b3178109.js.map",
+    "852.7b9071b1.js.map": "/signature-shopping/static/js/852.7b9071b1.js.map"
+  },
+  "entrypoints": [
+    "static/js/852.7b9071b1.js",
+    "static/js/main.b3178109.js"
+  ]
+}
